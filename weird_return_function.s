@@ -19,6 +19,7 @@ main:
 
 
 f:  #f(a,b,c,d)	
+#not sure how the func works
 
 	add $t1,$t2,$t3     # t1 = c+d
 
